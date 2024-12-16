@@ -1,0 +1,19 @@
+.geo-coords-container {
+    font-size: 14px;
+    margin-top: auto;
+}
+
+.geo-coords {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+
+}
+
+.geo-coord {
+    color: #888;
+}
+
+.last-updated {
+    color: #888;
+}
